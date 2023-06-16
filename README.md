@@ -1,2 +1,4 @@
-WIP
+# AI/ML on SageMaker Notebooks
+This repository contains a collection of useful Jupyter notebooks focused on Artificial Intelligence (AI) and Machine Learning (ML) workflows using Amazon SageMaker. SageMaker is a fully managed service provided by Amazon Web Services (AWS) that enables developers and data scientists to build, train, and deploy machine learning models at scale.
 
+The notebooks provided here serve as practical examples and tutorials to help you get started with AI/ML on SageMaker, covering a range of topics including data preprocessing, model training, hyperparameter tuning, model deployment, and more. These notebooks are designed to be interactive, allowing you to run the code cells, modify parameters, and experiment with different configurations.
